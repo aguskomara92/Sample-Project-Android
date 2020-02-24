@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Register_Empty_Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7b389ee-07a4-4ef3-a584-21d8462d9d7b</testCaseGuid>
+</TestCaseEntity>
